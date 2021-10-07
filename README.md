@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaizaQazi21
+- 👋 Hi, I’m Faiza Qazi
 - 👀 I’m interested in Web Development and Mobile Development
 - 🌱 I’m currently learning React Js, React Native and Flutter in depth
 - 💞️ I’m looking to collaborate on web and mobile development projects.
